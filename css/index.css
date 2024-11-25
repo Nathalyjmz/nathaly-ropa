@@ -1,0 +1,32 @@
+*{
+    background-color: rgb(189, 189, 189);
+}
+
+
+.principal{
+    text-align: center;
+    color: white;
+}
+
+.tarjeta{
+  
+
+.caja{
+    background-color: white;
+    padding: 15px;
+    border-radius: 5px;
+    width: 200px;
+    height: 300px;
+    text-align: center;
+    color: black;
+}
+
+.caja cc{
+    background-color: white;
+    padding: 15px;
+    border-radius: 5px;
+    width: 200px;
+    height: 350px;
+    text-align: center;
+    color: black;
+}
